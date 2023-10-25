@@ -1,8 +1,6 @@
 """
 Hash Table Project
-CSE 331 SS23 (Onsay)
-Your Name
-solution.py
+Shane Jose
 """
 
 from typing import TypeVar, List, Tuple
